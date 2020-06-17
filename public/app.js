@@ -1,7 +1,7 @@
 // ======   "Chapter 01" ====
 
 // ==== "chp 01 Task No 01"
-//  alert("Hello World!")
+ alert("Hello World!")
 
  //  ==== "chp 01  Task No 02"
 // alert("Error! Please enter a valid password.")
@@ -419,6 +419,84 @@
 // }
 
 
+// //   ==== "chp 09 to 11 Task No 05"
+/// part a
+// var a = 4;
+// if (++a === 5){
+//     alert("given condition for variable a is true");
+// }
+
+/// part b
+// var b = 83;
+// if (b++ === 83){
+// alert("given condition for variable b is true")
+// }
+
+/// part c
+// var c = 13; 
+// if (c++ === 12){ 
+//     alert("condition 1 is true"); 
+// }
+// if (c === 13){
+//  alert("condition 2 is true");
+//  } 
+//  if (++c < 14){
+// alert("condition 3 is true"); 
+// }
+//  if(c === 14){
+// alert("condition 4 is true");
+//  }
+
+/// part d
+// var materialCost = 20000;
+// var laborCost = 2000; 
+// var totalCost = materialCost + laborCost;
+//  if (totalCost === laborCost + materialCost){ 
+//      alert("The cost equals"); 
+//     }
+//  if (true){
+//       alert("True");
+//  }
+
+// /// part e
+// if (false){
+//      alert("False"); }
+
+/// part f
+//  if("car" < "cat"){
+//     alert("car is smaller than cat");
+//  }
+
+// //   ==== "chp 09 to 11 Task No 07"
+
+// var a = + prompt("Enter Guess the secret number")
+// if (a === 6){
+//     alert("“Bingo! Correct answer”")
+// }
+
+// else if (a >= 6){
+//     alert("“Close enough to the correct answer”")
+// }
+
+//   ==== "chp 09 to 11 Task No 08"
+
+// var a =9
+// var b = "divisible by"
+// var c = b +  a /  3
+// document.write( c ) 
+
+//   ==== "chp 09 to 11 Task No 09"
+// var a =  prompt ("write Even or Odd")
+// if(a == "even"){
+//     document.write("<h3>", "Even Number","</h3>", 2, "<br>", 4, "<br>", 6, "<br>",8, "<br>",10, "<br>",12, "<br>",14, "<br>",16, "<br>", 18, "<br>", 20, "<br>", 22, "<br>", 24, "<br>", 26, "<br>", 28, "<br>", 30, "<br>", 32, "<br>", 34,"<br>", 36, "<br>", 38, "<br>", 40)
+// }
+// else if(a == "odd"){
+//     document.write("<h3>", "Odd Number", "</h3>", 1,  "<br>", 3, "<br>", 5, "<br>", 7, "<br>", 9,  "<br>",11, "<br>",13, "<br>",15, "<br>",17, "<br>",19, "<br>",21, "<br>",23, "<br>",25, "<br>", 27, "<br>",29, "<br>",31, "<br>",33, "<br>",35, "<br>",37, "<br>",39, "<br>",41,)
+// }
+
+// else{
+//     document.write("Correct write")
+// }
 
 
 
